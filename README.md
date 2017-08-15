@@ -12,3 +12,6 @@ Abaixo, os materiais de consulta para cada tópico de aula.
 1. **Aulas 05 a 06 - Introdução a OO (encapsulamento / string)**
   * [Referência](laboratorio/string/string.html)
   * [Roteiro](laboratorio/string/roteiro.pdf)
+1. **Aulas 07 e 08 - Introdução a OO (polimorfismo / vector)**
+  * [Referência](laboratorio/vector/vector.html)
+  * [Roteiro](laboratorio/vector/roteiro.pdf)
