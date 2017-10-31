@@ -18,6 +18,7 @@ Por simplicidade, sua aplicação deverá considerar apenas o requisito 2, lista
 Conforme explicado anteriormente, esta classe deverá fornecer as seguintes operações básicas:
 * *Entrada e saída formatadas*, através dos operadores de inserção e extração de fluxo. 
 * *Acesso*, por nomes de colunas ou índices de linhas. 
+* *Agregação*, dadas uma ou mais métricas e uma ou mais colunas. 
 
 Adicionalmente, sua implementação do **TAD Dataframe** poderá fornecer as seguintes funcionalidades (valendo pontos extras): 
 * *Adição e remoção de coluna* (1,0pt), sendo a remoção por nome da coluna.
