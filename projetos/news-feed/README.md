@@ -41,4 +41,4 @@ Arquivos de saída | [config1.json](files/output/config1.json) | [config2.json](
 
 ---
 
-*Anterior:* [Dataframes](../dataframes) | *Próximo:* [Redirecionamento de Portas](../port-forwarding/)
+*Anterior:* [Análise de agrupamentos](../clustering) | *Próximo:* [Redirecionamento de Portas](../port-forwarding/)

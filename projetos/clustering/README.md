@@ -42,4 +42,4 @@ Datasets | [iris.csv](iris.csv) | [wine.csv](wine.csv)
 
 ---
 
-*Anterior*: [Projetos](../) | *Próximo:* [Dataframes](../dataframes/)
+*Anterior*: [Projetos](../) | *Próximo:* [Feed de notícias](../news-feed/)
