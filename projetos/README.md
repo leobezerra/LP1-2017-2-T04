@@ -18,4 +18,3 @@ Abaixo, as descrições das diferentes alternativas de enunciado disponíveis pa
 1. [**Análise de agrupamentos**](clustering)
 1. [**Feed de notícias**](news-feed)
 1. [**Redirecionamento de portas**](port-forwarding)
-1. [**Xadrez**](chess)
