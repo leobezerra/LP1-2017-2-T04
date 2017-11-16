@@ -38,7 +38,7 @@ Sua aplicação será avaliada de forma modular:
 
 ## Arquivos de teste
 
-Datasets | [iris.csv](input/iris.csv) | [wine.csv](input/wine.csv)
+Datasets | [iris.csv](files/input/iris.csv) | [wine.csv](files/input/wine.csv)
 
 ---
 
